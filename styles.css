@@ -1,0 +1,416 @@
+#navbar {
+    position: fixed;
+    width: 100%;
+    height: 80px;
+    background-color: #08979D;
+}
+
+#logo-image {
+    height: 90px;
+    width: 110px;
+}
+
+#nav-button1 {
+    color: #E1D4DD;
+    background-color: #08979D;
+    border-color: #08979D;
+    margin-top: -10px;
+    margin-left: 25px;
+    font-family: Oswald;
+    font-size: 25px;
+    transition: background 1s, transform 0.3s;
+}
+
+#nav-button1:hover {
+    background-color: #8474A1;
+    transform: rotate(360deg);
+}
+
+#nav-button2 {
+    color: #E1D4DD;
+    background-color: #08979D;
+    border-color: #08979D;
+    margin-top: -10px;
+    margin-left: 35px;
+    font-family: Oswald;
+    font-size: 25px;
+    transition: background 1s, transform 0.3s;
+}
+
+#nav-button2:hover {
+    background-color: #8474A1;
+    transform: rotate(360deg);
+}
+
+#nav-button3 {
+    color: #E1D4DD;
+    background-color: #08979D;
+    border-color: #08979D;
+    margin-top: -10px;
+    margin-left: 35px;
+    font-family: Oswald;
+    font-size: 25px;
+    transition: background 1s, transform 0.3s;
+}
+
+#nav-button3:hover {
+    background-color: #8474A1;
+    transform: rotate(360deg);
+}
+
+#nav-button4 {
+    color: #E1D4DD;
+    background-color: #08979D;
+    border-color: #08979D;
+    margin-top: -10px;
+    margin-left: 510px;
+    transition: background 1s, transform 0.3s;
+}
+
+#nav-button4:hover {
+    background-color: #8474A1;
+    transform: rotate(360deg);
+}
+
+#body {
+    width: 100%;
+    height: 800px;
+    background-color: #8474A1;
+}
+
+#welcomeTitle {
+    width: 100%;
+    color: #E1D4DD;
+    font-family: Oswald;
+    font-size: 36px;
+    padding-top: 120px;
+}
+
+#welcomeBody1 {
+    width: 100%;
+    color: #E1D4DD;
+    font-family: Old Standard TT;
+    font-size: 36px;
+    padding-top: 90px;
+}
+
+#welcomeBody2 {
+    width: 100%;
+    color: #E1D4DD;
+    font-family: Old Standard TT;
+    font-size: 36px;
+    padding-top: 90px;
+}
+
+#bodyButtonBackground {
+    padding-top: 60px;
+}
+
+#bodyButton {
+    background-color: #08979D;
+    border-color: #08979D;
+    text-align: center;
+    padding: 20px 20px;
+    font-family: Oswald;
+    font-size: 36px;
+    color: #E1D4DD;
+    transition: transform 0.3s;
+}
+
+#bodyButton:hover {
+    transform: rotate(360deg);
+}
+
+#bodyImage {
+    margin-top: 125px;
+    width: 100%;
+    height: 555px;
+    border-radius: 2rem;
+}
+
+#image1 {
+    margin-top: 90px;
+    width: 100%;
+    height: 425px;
+    border-radius: 1rem;
+    cursor: pointer;
+}
+
+#image2 {
+    margin-top: 90px;
+    width: 100%;
+    height: 425px;
+    border-radius: 1rem;
+    cursor: pointer;
+}
+
+#goodiesBody {
+    text-align: center;
+    margin-top: 20px;
+    font-family: Oswald;
+    font-size: 36px;
+}
+
+#cookie1Title {
+    color: #E1D4DD;
+}
+
+#cookie1Button {
+    background-color: #08979D;
+    border-color: #08979D;
+    margin-top: 10px;
+    padding: 10px 10px;
+    color: #E1D4DD;
+    font-family: Oswald;
+    font-size: 20px;
+    transition: background 1s, transform 0.3s, border-color 1s;
+}
+
+#cookie1Button:hover {
+    background-color: black;
+    border-color: black;
+    transform: rotate(360deg);
+}
+
+#cookie2Title {
+    color: #E1D4DD;
+}
+
+#cookie2Button {
+    background-color: #08979D;
+    border-color: #08979D;
+    margin-top: 10px;
+    padding: 10px 10px;
+    color: #E1D4DD;
+    font-family: Oswald;
+    font-size: 20px;
+    transition: background 1s, transform 0.3s, border-color 1s;
+}
+
+#cookie2Button:hover {
+    background-color: black;
+    border-color: black;
+    transform: rotate(360deg);
+}
+
+#textBox1 {
+    color: red;
+    font-family: Oswald;
+    font-size: 36px;
+}
+
+#textBox2 {
+    color: red;
+    font-family: Oswald;
+    font-size: 36px;
+}
+
+#allContent {
+    animation: hide 1s linear;
+}
+
+#form {
+    width: 90%;
+    height: 600px;
+    margin-top: 100px;
+    margin-left: 65px;
+    background-color: #E1D4DD;
+    border-radius: 1rem;
+    color: #08979D;
+    font-family: Oswald;
+    font-size: 25px;
+}
+
+#namefield {
+    width: 100%;
+    border-radius: 1rem;
+    margin-bottom: 10px;
+    border-color: #8474A1;
+}
+
+#addressfield {
+    width: 100%;
+    border-radius: 1rem;
+    margin-bottom: 10px;
+    border-color: #8474A1;
+}
+
+#cardfield {
+    width: 50%;
+    border-radius: 1rem;
+    margin-bottom: 10px;
+    border-color: #8474A1;
+}
+
+#cardfieldType1 {
+    margin-left: 15px;
+}
+#cardfieldType2 {
+    margin-left: 15px;
+}
+#cardfieldType3 {
+    margin-left: 15px;
+}
+
+#emailfield {
+    width: 100%;
+    border-radius: 1rem;
+    margin-bottom: 30px;
+    border-color: #8474A1;
+}
+
+#numberOf1 {
+    width: 28%;
+    border-radius: 1rem;
+    border-color: #8474A1;
+
+}
+
+#numberOf2 {
+    width: 28%;
+    border-radius: 1rem;
+    border-color: #8474A1;
+}
+
+#buttonSection {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#submitButton {
+    margin-right: 30px;
+    padding: 15px 15px;
+    background-color: #08979D;
+    border-color: #8474A1;
+    border-radius: 1rem;
+}
+
+#resetButton {
+    padding: 15px 20px;
+    background-color: #08979D;
+    border-color: #8474A1;
+    border-radius: 1rem;
+}
+
+#footer {
+    width: 100%;
+    height: 70px;
+    background-color: #08979D;
+}
+
+#footer-text {
+    text-align: center;
+    color: #E1D4DD;
+    font-family: Oswald;
+    font-size: 36px;
+    padding-top: 17px;
+}
+
+#boxForClock {
+    text-align: center;
+    font-family: Oswald;
+    margin-top: 15px;
+    font-size: 30px;
+    color: #E1D4DD;
+    background-color: #08979D;
+    border-radius: 1rem;
+    animation: hide 2s linear;
+}
+
+#textField {
+    width: 100%;
+    border-color: #8474A1;
+    border-radius: 1rem;
+}
+
+#labelBottom {
+    text-align: center;
+    margin-top: 50px;
+}
+
+@keyframes hide {
+    0% {opacity: 0;}
+    25% {opacity: 0;}
+    50% {opacity: 0;}
+    75% {opacity: 0;}
+    100% {opacity: 1;}
+}
+
+
+
+@media screen and (max-width: 600px){
+    #bodyImage {
+        display: none;
+    }
+
+    #logo-image {
+        margin-top: 15px;
+    }
+    #navbar {
+        height: 120px;
+    }
+    #nav-button1 {
+        margin-top: -35px;
+        font-size: 15px;
+        white-space: nowrap;
+    }
+    #nav-button2 {
+        margin-top: -35px;
+        font-size: 15px;
+        white-space: nowrap;
+    }
+    #nav-button3 {
+        font-size: 15px;
+        margin-top: -50px;
+        margin-left: 115px;
+        white-space: nowrap;
+    }
+    #nav-button4 {
+        margin-left: 35px;
+        margin-top: -60px;
+    }
+
+    #welcomeTitle {
+        margin-top: 25px;
+        margin-bottom: -35px;
+    }
+    #welcomeBody1 {
+        margin-bottom: -35px;
+    }
+    #bodyButtonBackground {
+        margin-top: -25px;
+    }
+    #body {
+        height: 850px;
+    }
+    #footer {
+        height: 112px;
+    }
+
+    #image1 {
+        margin-top: 135px;
+        height: 200px;
+    }
+
+    #image2 {
+        margin-top: 25px;
+        height: 200px;
+    }
+
+    #goodiesBody {
+        font-size: 25px;
+    }
+    
+    #form {
+        margin-top: 175px;
+        height: 550px;
+        margin-left: 18px;
+        font-size: 18px;
+    }
+
+    #cardfield {
+        width: 100%;
+    }
+
+    
+}
