@@ -21,7 +21,7 @@ const image1 = document.getElementById("image1");
 
 image1.addEventListener('click', function(e){
 
-  document.getElementById("modal-title").innerHTML = "See if publish site changes this"
+  document.getElementById("modal-title").innerHTML = "Rasberry Chocolate Mousse Hearts"
 
   document.getElementById("text-page").innerHTML += "Thin crunchy outer casing of dark chocolate.";
   document.getElementById("text-page").innerHTML += " Filled with Chocolate Mousse and Fresh Rasberries and Sprinkles.";
