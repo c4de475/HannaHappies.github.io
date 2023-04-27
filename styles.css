@@ -423,5 +423,8 @@
         margin-left: 18px;
     }
 
+    #clockDiv {
+       display: none;
+    }
 
 }
