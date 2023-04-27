@@ -415,6 +415,13 @@
         width: 100%;
     }
 
+    #namefield {
+        margin-bottom: 20px;
+    }
+
+    #addressfield {
+        margin-bottom: 20px;
+    }
     #cardfieldType4 {
         margin-left: 18px;
     }
