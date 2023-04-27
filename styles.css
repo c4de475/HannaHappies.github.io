@@ -437,6 +437,10 @@
         margin-bottom: 30px;
     }
 
+    #labelBottom {
+        margin-top: 100px;
+    }
+
     #clockPannel {
        display: none;
     }
