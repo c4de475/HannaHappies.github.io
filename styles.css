@@ -286,6 +286,8 @@
     background-color: #08979D;
     border-color: #8474A1;
     border-radius: 1rem;
+    color: #E1D4DD;
+    font-size: 10px;
 }
 
 #resetButton {
@@ -294,6 +296,7 @@
     border-color: #8474A1;
     border-radius: 1rem;
     color: #E1D4DD;
+    font-size: 10px;
 }
 
 #footer {
