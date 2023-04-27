@@ -429,6 +429,12 @@
     #emailfield {
         margin-bottom: 40px;
     }
+    #numberOf1 {
+        margin-bottom: 30px;
+    }
+    #numberOf2 {
+        margin-bottom: 30px;
+    }
 
     #clockPannel {
        display: none;
