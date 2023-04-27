@@ -78,6 +78,10 @@
     background-color: #8474A1;
 }
 
+#moveBox {
+    margin-top: 25px;
+}
+
 #welcomeTitle {
     width: 100%;
     color: #E1D4DD;
