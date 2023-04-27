@@ -416,14 +416,18 @@
     }
 
     #namefield {
-        margin-bottom: 20px;
+        margin-bottom: 30px;
     }
 
     #addressfield {
-        margin-bottom: 20px;
+        margin-bottom: 30px;
     }
     #cardfieldType4 {
         margin-left: 18px;
+        margin-bottom: 30px;
+    }
+    #emailfield {
+        margin-bottom: 20px;
     }
 
     #clockPannel {
