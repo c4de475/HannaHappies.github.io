@@ -1,4 +1,4 @@
-var intervalDate = new Date("April 29, 2023 24:00:00").getTime();
+var intervalDate = new Date("May 6, 2023 24:00:00").getTime();
 
 var theTime = setInterval(function() {
   var todaysDate = new Date().getTime();
